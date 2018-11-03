@@ -47,7 +47,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Linares, Florencia
 - [ ] Lorenz, Steele
 - [ ] Lui, Jessica
-- [ ] McKee, Sarah
+- [X] McKee, Sarah :smile_cat:
 - [ ] Mittal, Trisha
 - [ ] Nakada, Makoto
 - [ ] Nince, Eduardo
